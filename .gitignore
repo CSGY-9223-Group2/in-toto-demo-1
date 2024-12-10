@@ -1,3 +1,5 @@
 *.swp
 functionary_bob/bob
 functionary_carl/carl
+owner_alice/alice
+key_gen.py
